@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...  Data Science, Python
 - 📫 How to reach me: ... my email
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Data has been the backbone of Business Process. It can be used in various forms for policy making and for decisions.
 
 <!--
 **Atif255/Atif255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
