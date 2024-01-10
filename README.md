@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Analytics
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Deep Neural Networks
+- 👯 I’m looking to collaborate on ... anything intresting 
 - 🤔 I’m looking for help with ... Artificial Intelligence
-- 💬 Ask me about ...  
-- 📫 How to reach me: ... 
+- 💬 Ask me about ...  Data Science, Python
+- 📫 How to reach me: ... my email
 - ⚡ Fun fact: 
 
 <!--
