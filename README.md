@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Analytics
+- 🔭 I’m currently working on ... Python Projects
 - 🌱 I’m currently learning ... Deep Neural Networks
-- 👯 I’m looking to collaborate on ... anything intresting 
+- 👯 I’m looking to collaborate on ... Analytics
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...  Data Science, Python
-- 📫 How to reach me: ... my email
-- ⚡ Fun fact: Data has been the backbone of Business Process. It can be used in various forms for policy making and for decisions.
+- 📫 How to reach me: ...atif09558@gmail.com 
 
 <!--
 **Atif255/Atif255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
