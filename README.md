@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...  Data Science, Python
 - 📫 How to reach me: ...atif09558@gmail.com
-- [![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe)](https://github.com/anuraghazra/github-readme-stats)
+- [![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
