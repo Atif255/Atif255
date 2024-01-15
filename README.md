@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on ... Analytics
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...  Data Science, Python
-- 📫 How to reach me: ...atif09558@gmail.com 
+- 📫 How to reach me: ...atif09558@gmail.com
+- [![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Atif255/Atif255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
