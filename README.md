@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... Artificial Intelligence
 - 💬 Ask me about ...  Data Science, Python
 - 📫 How to reach me: ...atif09558@gmail.com
-- - ⚡ Fun fact: ...Data serves as the fundamental support for business processes. It can take on diverse formats, contributing to policymaking and decision-making processes
+- ⚡ Fun fact: ...Data serves as the fundamental support for business processes. It can take on diverse formats, contributing to policymaking and decision-making processes
 
 
 <!--
