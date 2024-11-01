@@ -1,12 +1,6 @@
-### Hi there 👋
+Doing gradient ascent on the loss landscape of life.
 
-- 🔭 I’m currently working on ... Python Projects
-- 🌱 I’m currently learning ... Deep Neural Networks
-- 👯 I’m looking to collaborate on ... Analytics
-- 🤔 I’m looking for help with ... Artificial Intelligence
-- 💬 Ask me about ...  Data Science, Python
-- 📫 How to reach me: ...atif09558@gmail.com
-- ⚡ Fun fact: ...Doing gradient ascent on the loss landscape of life.
+atif09558@gmail.com
 
 
 <!--
