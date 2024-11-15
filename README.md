@@ -1,5 +1,3 @@
-Doing gradient ascent on the loss landscape of life.
-
 atif09558@gmail.com
 
 
